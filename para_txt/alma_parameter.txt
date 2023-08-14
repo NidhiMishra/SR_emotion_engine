@@ -1,0 +1,9 @@
+temperament_p: 0.16
+temperament_a: 0
+temperament_d: 0.4
+attractive_factor: 1
+repulsive_factor: 0.5
+emo_decay_factor: 1
+mood_decay_factor: 0.05
+intensity_lower_bound: 0.01
+timestep: 0.1
